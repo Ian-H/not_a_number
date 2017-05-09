@@ -45,3 +45,7 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+secrets/bofapassb64.txt
+secrets/bofausernameb64.txt
+secrets/plaidsecretkeyb64.txt
+secrets/plaidclientidb64.txt
